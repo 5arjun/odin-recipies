@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: tan
+}
+.name{
+    background-color: lightcyan;
+    font-size: 19;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main-pic{
+    height: 250px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

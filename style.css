@@ -1,9 +1,10 @@
-h1{
+h1,
+h4{
     text-align: center;
     background-color: tan
 }
 .name{
-    background-color: lightcyan;
+    background-color:darkgray;
     font-size: 19;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -13,4 +14,12 @@ h1{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.steps{
+    color: cadetblue;
+    background-color:azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 5%;
+    padding-right: 5%;
 }
